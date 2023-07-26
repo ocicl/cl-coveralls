@@ -1,0 +1,10 @@
+* cl-coveralls
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/cl-coveralls.git   |
+| commit  | 69b2f05  |
+| systems | cl-coveralls |
+|---------+-------------------------------------------|
+
