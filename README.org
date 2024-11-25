@@ -2,9 +2,8 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/fukamachi/cl-coveralls.git   |
-| commit  | 69b2f05  |
-| systems | cl-coveralls |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------|
+| source  | git:https://github.com/fukamachi/cl-coveralls.git |
+| commit  | 0df2855                                           |
+| systems | cl-coveralls                                      |
+|---------+---------------------------------------------------|
